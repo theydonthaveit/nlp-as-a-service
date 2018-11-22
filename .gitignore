@@ -1,2 +1,4 @@
 .vscode
 env
+model/word2vecModel
+model/word2vecModel.vectors.npy

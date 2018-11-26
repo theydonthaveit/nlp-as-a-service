@@ -1,0 +1,2 @@
+model/word2vecModel
+model/*.npy
